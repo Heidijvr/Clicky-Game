@@ -5,11 +5,11 @@
 This is a simple memory challenge game written in React. The application's UI is split into four components.
 
 
-* The app should render 12 different images to the screen. Each image should listen for click events..
+* The app should render 12 different images to the screen. Each image should listen for click events.
 
 <img src="https://github.com/Heidijvr/Clicky-Game/blob/master/src/images/screencapture.png" alt Clicky_Game Screenshot>
 
-* The app should keep track of the user's score. The user's score should be incremented when clicking an image. The user's score should be reset to 0 if the same image is clicked more than once.
+* The app should keep track of the user's score. The score should be incremented when clicking an image; and reset to 0 if the same image is clicked more than once.
 
 * Every time an image is clicked, the images rendered to the page should be  reshuffled in a random order.
 

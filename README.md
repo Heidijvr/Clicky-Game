@@ -15,8 +15,7 @@ This is a simple memory challenge game written in React. The application's UI is
 
 * Once the user's score is reset after an incorrect guess, the user has the option to restart via a modal.
 
-Use [this link](https://caricature-clicky-game.herokuapp.com/) to play.
-Remember: don't click the same card twice!
+Use [this link](https://caricature-clicky-game.herokuapp.com/) to play and remember not to click the same card twice!
 
 ## Technologies used
 

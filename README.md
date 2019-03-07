@@ -7,17 +7,18 @@ This is a simple memory challenge game written in React.The application's UI is 
 ## Instructions
 
 * Create a new React application using Create React App
-* The app should render 12 different images (of your choice) to the screen. Each image should listen for click events..
-IMAGE 
+* The app should render 12 different images to the screen. Each image should listen for click events..
 
-* The app should keep track of the user's score. The user's score should be incremented when clicking an image for the first time. The user's score should be reset to 0 if they click the same image more than once.
+<img src="https://github.com/Heidijvr/Clicky-Game/tree/master/src/images/screencapture.png" alt Clicky_Game Screenshot>
 
-* Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
+* The app should keep track of the user's score. The user's score should be incremented when clicking an image. The user's score should be reset to 0 if the same image is clicked more than once.
 
-* Once the user's score is reset after an incorrect guess, the game should restart.
+* Every time an image is clicked, the images rendered to the page should be  reshuffled in a random order.
+
+* Once the user's score is reset after an incorrect guess, the user has the option to restart via a modal.
 
 Use [this link](https://caricature-clicky-game.herokuapp.com/) to play.
-Remember: Don't click the same card twice!
+Remember: don't click the same card twice!
 
 ## Technologies used
 
@@ -25,6 +26,7 @@ Remember: Don't click the same card twice!
 - Bootstrap
 - CSS
 - ES6
+- GoogleFont
 
 
 

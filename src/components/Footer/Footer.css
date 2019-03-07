@@ -1,12 +1,21 @@
 .footer {
 	background-color: #bdb005;
 	width: 100%;
-	position: relative;
+	position: relative;	
 }
 
 .footer p {
-	color: white;
-	text-align: center;
-	padding: 10px 0;
 	font-size: 15px;
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	display: flex;
+	align-items: center;
+	width: 100%;
+	justify-content: center;
+	height: 60px;
+	background: #666;
+	border-top: 8px solid #ff810a;
+	color: #fff;
+	font-family: 'Arbutus Slab', serif;
 }

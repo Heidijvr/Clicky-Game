@@ -2,14 +2,12 @@
 
 ## Overview 
 
-This is a simple memory challenge game written in React.The application's UI is split into four components.
+This is a simple memory challenge game written in React. The application's UI is split into four components.
 
-## Instructions
 
-* Create a new React application using Create React App
 * The app should render 12 different images to the screen. Each image should listen for click events..
 
-<img src="https://github.com/Heidijvr/Clicky-Game/tree/master/src/images/screencapture.png" alt Clicky_Game Screenshot>
+<img src="https://github.com/Heidijvr/Clicky-Game/blob/master/src/images/screencapture.png" alt Clicky_Game Screenshot>
 
 * The app should keep track of the user's score. The user's score should be incremented when clicking an image. The user's score should be reset to 0 if the same image is clicked more than once.
 

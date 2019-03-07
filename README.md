@@ -16,7 +16,7 @@ IMAGE
 
 * Once the user's score is reset after an incorrect guess, the game should restart.
 
-Use this link to play:
+Use [this link](https://caricature-clicky-game.herokuapp.com/) to play.
 Remember: Don't click the same card twice!
 
 ## Technologies used
